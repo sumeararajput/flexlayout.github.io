@@ -1,0 +1,226 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    background-color: aqua;
+    width: 97.65vw; 
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .navbrand{
+
+} */
+.navlist{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+}
+.listitems{
+      margin:0px 10px ;
+      font-size: 25px;
+      
+}
+.navlinks{
+    text-decoration: none;
+}
+.searchsec{
+  margin-right:  10px;
+ 
+}
+.searchinput{
+    border-radius: 2px;
+    padding: 5px 15px;
+    
+}
+.searchbtn{
+    border: 2px;
+   border-radius: 1pxsolid black; 
+   background-color: white;
+   padding: 5px 15px;
+   cursor: pointer;
+}
+.searchbtn:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.container{
+    background-color: blue;
+    width: 97vw;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.defination{
+    display:inline-block;
+    
+   
+}
+.heading{
+    color: white;
+    margin: auto;
+    margin-left: 250px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.para{
+    margin-left: 250px;
+    font: bold;
+    color: white;
+    margin-bottom: 40px;
+}
+.btn1{
+    margin-left: 250px;
+    background-color:blue;
+    color: black;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: white;
+    color: blue;
+    border-color: white;
+    cursor: pointer;
+}
+.btn2{
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    border: 2px solid balck;
+    border-radius: 2px;
+    margin-left: 5px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color:blue;
+    color:white;
+    border-color: white;
+    cursor: pointer;
+}
+.box{
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 45px;
+}
+.conatiner2{
+    width: 97vw;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    align-items: center;
+}
+.newpic{
+    width: 100vw;
+    background-color: white;
+    /* display: ; */
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.card1{
+    height: 340px;
+    width: 250px;
+    border: 2px solid white;
+     margin-left: 100px;  
+}
+.sec1{
+    height: 40%;
+    background-image: url(https://images.pexels.com/photos/639086/pexels-photo-639086.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.sec2{
+    padding: 7px 7px;
+ }
+.nature{
+    text-align: center;
+}
+.parag1{
+    text-align: center;
+}
+.newpic2{
+    width: 100vw;
+    background-color: white;
+    /* display: ; */
+    flex-direction: row;
+     flex-wrap: wrap; 
+    justify-content: space-around; 
+    align-items: center;
+    
+}
+.card2{
+    height: 340px;
+    width: 250px;
+    border: 2px solid white;
+     margin-left: 70px; 
+}
+ .no1{
+    height: 40%;
+    background-image: url(https://images.pexels.com/photos/130987/pexels-photo-130987.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.no2{
+    padding: 7px 7px;
+}
+.park{
+    text-align: center;
+}
+.para2{
+    text-align: center;
+} 
+.newpic3{
+    width: 100vw;
+    background-color: white;
+    /* display: ; */
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    align-items: center;
+} 
+.card3{
+    height: 340px;
+    width: 250px;
+    border: 2px solid white;
+     margin-left: 70px; 
+}
+.sec3{
+    height: 40%;
+ background-image: url(https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=600);
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+.sec4{
+    padding: 7px 7px;
+}
+.sea{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+}
+
+    
+
+
